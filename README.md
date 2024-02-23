@@ -1,1 +1,2 @@
 # reinforcement-learning-models
+* Binary classification is a fundamental task in machine learning where the goal is to classify input data into one of two possible categories or classes. It's called "binary" because there are only two distinct outcomes. For instance, determining whether an email is spam or not spam, predicting whether a patient has a disease or not, or recognizing whether an image contains a cat or not are all examples of binary classification problems.
