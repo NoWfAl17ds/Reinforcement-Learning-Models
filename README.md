@@ -1,4 +1,4 @@
-# reinforcement-learning-models
+# Reinforcement-learning-models
 
 # binary classification
 
