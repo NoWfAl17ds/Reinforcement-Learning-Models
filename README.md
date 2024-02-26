@@ -11,6 +11,6 @@ The multi-armed bandit problem is like a gambler facing several slot machines wi
 // Heres are following steps ...
 
 * Picking Machines: Each time you play, you need to decide which machine to try.
-*Learning: As you play, you learn which machines seem to give you more money.
-*Balancing Act: You have to balance between trying new machines to learn more about them and sticking to the machines that have given you good payouts so far.
-*Maximizing Rewards: Ultimately, your goal is to maximize your total winnings over many plays.
+* Learning: As you play, you learn which machines seem to give you more money.
+* Balancing Act: You have to balance between trying new machines to learn more about them and sticking to the machines that have given you good payouts so far.
+* Maximizing Rewards: Ultimately, your goal is to maximize your total winnings over many plays.
